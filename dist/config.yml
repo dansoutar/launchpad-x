@@ -1,0 +1,6 @@
+development:
+  theme_id: 117758001328
+  store: souts-dev-store.myshopify.com
+  password: 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
+  ignore_files:
+    - config.yml
